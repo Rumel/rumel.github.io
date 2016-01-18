@@ -16,3 +16,6 @@ github_username:  Rumel
 
 # Build settings
 markdown: kramdown
+
+timezone: America/Chicago
+permalink: /:year/:month/:day/:title/
